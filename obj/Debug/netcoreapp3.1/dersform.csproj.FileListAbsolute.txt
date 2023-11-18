@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\dersform\dersform\bin\Debug\netcoreapp3.1\dersform.exe
+C:\Users\PC\source\repos\dersform\dersform\bin\Debug\netcoreapp3.1\dersform.deps.json
+C:\Users\PC\source\repos\dersform\dersform\bin\Debug\netcoreapp3.1\dersform.runtimeconfig.json
+C:\Users\PC\source\repos\dersform\dersform\bin\Debug\netcoreapp3.1\dersform.runtimeconfig.dev.json
+C:\Users\PC\source\repos\dersform\dersform\bin\Debug\netcoreapp3.1\dersform.dll
+C:\Users\PC\source\repos\dersform\dersform\bin\Debug\netcoreapp3.1\dersform.pdb
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.Form1.resources
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.AssemblyInfo.cs
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.dll
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.pdb
+C:\Users\PC\source\repos\dersform\dersform\obj\Debug\netcoreapp3.1\dersform.genruntimeconfig.cache
